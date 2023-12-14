@@ -1,0 +1,15 @@
+/* small.css */
+
+/* Apply styles to elements for small size */
+.small-text {
+    font-size: 14px;
+}
+
+.small-heading {
+    font-size: 18px;
+}
+
+.small-container {
+    width: 80%;
+    margin: 0 auto;
+}

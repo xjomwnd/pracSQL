@@ -1,0 +1,15 @@
+/* large.css */
+
+/* Apply styles to elements you want to be large */
+.large-text {
+    font-size: 24px;
+}
+
+.large-heading {
+    font-size: 36px;
+}
+
+.large-container {
+    width: 80%;
+    margin: 0 auto;
+}

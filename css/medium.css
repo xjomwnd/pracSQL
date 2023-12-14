@@ -1,0 +1,15 @@
+/* medium.css */
+
+/* Apply styles to elements for medium size */
+.medium-text {
+    font-size: 18px;
+}
+
+.medium-heading {
+    font-size: 24px;
+}
+
+.medium-container {
+    width: 60%;
+    margin: 0 auto;
+}
